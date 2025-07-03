@@ -1,0 +1,35 @@
+2:05 Mt xX~ na OT CLO)
+
+CLelsseatomcybaavervMLa ys
+
+Similarity measure for number sequences
+
+In data analysis, cosine similarity is a 4
+measure of similarity between two
+
+non-zero vectors defined in an inner product
+space. Cosine similarity is the cosine of the
+angle between the vectors; that is, it is the dot
+product of the vectors divided by the product of
+their lengths. It follows that the cosine similarity
+does not depend on the magnitudes of the
+vectors, but only on their angle. The cosine
+similarity always belongs to the interval
+
+[—1, +1]. For example, two proportional
+vectors have a cosine similarity of +1, two
+orthogonal vectors have a similarity of 0, and
+two opposite vectors have a similarity of -1. In
+some contexts, the component values of the
+vectors cannot be negative, in which case the
+COTES MIVMH ole 16 Rm O ew a
+
+For example, in information retrieval and text
+mining, each word is assigned a different
+coordinate and a document is represented by
+the vector of the numbers of occurrences of
+
+ml XA cai —
+
+PTA) Language Findinarticle Theme Cereals
+
