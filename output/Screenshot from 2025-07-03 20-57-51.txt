@@ -1,0 +1,27 @@
+PN Tolls
+
+Reece teenie uke Cee ee ae une eee
+
+Tesseract 4 adds a new neural net (LSTM) based OCR engine which is focused on line recognition, but also still
+Are etm Cena keetr mCeree he MeL ae nite Cece etc
+Compatibility with Tesseract 3 is enabled by using the Legacy OCR Engine mode (--oem 0). It also needs traineddata
+files which support the legacy engine, for example those from the tessdata repository.
+
+Stefan Weil is the current lead developer. Ray Smith was the lead developer until 2018. The maintainer is Zdenko:
+Podobny. For a list of contributors see AUTHORS and GitHub's log of contributors.
+
+ 
+
+Bees eee Cer A OU a Cae Rent ee EE EC ESR ed Coa
+eee eet rR Eee ROMER ea CM a Ser ur Mas
+
+Seer Ce eae aimee tL OMA noma a acer)
+ten
+
+You should note that in many cases, in order to get better OCR results, you'll need to improve the quality of the
+CNC Me eee
+
+Beet Cone Ce RUE ec Maes Rte een Rel ea eee
+
+Tesseract can be trained to recognize other languages. See Tesseract Training for more information.
+
